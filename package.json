@@ -17,7 +17,7 @@
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-promise": "^4.0.1",
         "eslint-plugin-standard": "^4.0.2",
-        "solc": "^0.6.12",
+        "solc": "^0.8.0",
         "solhint": "^3.3.1"
     },
     "scripts": {
